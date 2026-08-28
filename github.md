@@ -14,7 +14,7 @@ Una clave SSH identifica tu máquina automáticamente, sin introducir contraseñ
 
 1. [Genera una clave SSH](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 2. [Añade la clave pública a tu cuenta de GitHub](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
-3. Cuando clones, usa la URL SSH: `git clone git@github.com:GIAA/{student-id}.git`
+3. Cuando clones, usa la URL SSH: `git clone git@github.com:GIAA-UC3M/{student-id}.git`
 
 ### Opción B — Token personal (más sencillo para empezar)
 

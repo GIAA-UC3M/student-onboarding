@@ -27,7 +27,7 @@ Recibirás un correo de GitHub con el asunto *"You've been invited to join..."*.
 Una vez aceptada la invitación, tu repositorio personal estará disponible en:
 
 ```
-https://github.com/GIAA/{student-id}
+https://github.com/GIAA-UC3M/{student-id}
 ```
 
 Solo tú y el profesorado tenéis acceso.
@@ -42,7 +42,7 @@ Solo tú y el profesorado tenéis acceso.
 
 ## Tus repositorios
 
-### Tu repo privado — `GIAA/{student-id}`
+### Tu repo privado — `GIAA-UC3M/{student-id}`
 
 Es tuyo: solo tú y el profesorado tenéis acceso. Contiene todo tu trabajo en la plataforma:
 
@@ -54,7 +54,7 @@ Es tuyo: solo tú y el profesorado tenéis acceso. Contiene todo tu trabajo en l
 | Tus notas y feedback | **Issues** — busca `correction-review` con el nombre del ejercicio |
 | Tu código | Ramas `ex/{subject-id}/{course}/exNN` — una por ejercicio |
 
-### Repo compartido de la asignatura — `GIAA/{subject-id}-public`
+### Repo compartido de la asignatura — `GIAA-UC3M/{subject-id}-public`
 
 Todos los estudiantes de la asignatura tenéis acceso de lectura. El profesorado publica aquí recursos como soluciones, material de apoyo o ejemplos.
 

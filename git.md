@@ -52,7 +52,7 @@ git config --global user.email "tu@email.com"
 Descarga el repositorio a tu máquina (necesitas tener [autenticación configurada](github.md) primero):
 
 ```bash
-git clone https://github.com/GIAA/{student-id}
+git clone https://github.com/GIAA-UC3M/{student-id}
 cd {student-id}
 ```
 
