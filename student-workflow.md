@@ -100,7 +100,7 @@ Si conviertes la PR después de la fecha límite, el sistema añade la label `la
 
 ## 6. La nota
 
-Cuando el profesor corrija y califique, recibirás una notificación y una issue `correction-review` en tu repo con la nota y el feedback.
+Cuando el profesor corrija y califique, recibirás una notificación y una issue `correction-review` en tu repo con la nota y el feedback. En ese mismo momento, el sistema mergea automáticamente tu PR de entrega — no tienes que hacerlo tú.
 
 ---
 
@@ -123,3 +123,6 @@ Espera unos minutos — el workflow puede tardar en ejecutarse. Si pasados 5 min
 
 **¿Dónde veo mi nota?**
 En la pestaña **Issues** de tu repositorio. Busca la issue `correction-review` con el nombre del ejercicio.
+
+**¿Tengo que mergear yo mi PR de entrega?**
+No, y de hecho no puedes: solo el profesorado puede aprobar cambios en tu rama `main`. El sistema mergea tu PR automáticamente en cuanto el profesor te califica.

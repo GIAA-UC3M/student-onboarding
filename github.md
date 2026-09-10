@@ -47,6 +47,7 @@ Una PR es una propuesta de cambio de una rama hacia otra. En esta plataforma:
 - Cuando recibes un ejercicio, el sistema crea una **draft PR** en tu nombre.
 - Haces commits en la rama asociada.
 - Cuando terminas, conviertes la draft PR a **"Ready for Review"** — esa es tu entrega.
+- No la cierres ni la mergees tú: el sistema la mergea automáticamente cuando el profesor te califica.
 
 ### Partes de una PR
 
